@@ -1,0 +1,61 @@
+body   
+{
+background-color: #303030;
+color: #ffffff;
+height: 125vh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {  
+background-color: orange;
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 35px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black; 
+top: 0.01rem;
+z-index: 50;
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 20px;  
+}  
+header li a {  
+color: blue;  
+text-decoration: none;  
+}  
+
+.logo
+{
+	width: center;
+	font-size: 50px;
+	margin: 20px;
+	
+	
+}
+
+.content
+{
+	width: 1800px;
+	font-size: 40px;
+	text-align: justify;
+}
+
+.c
+{
+	width: 1800px;
+	font-size: 30px;
+	text-align: justify;
+}
+
+mark { 
+  background-color: yellow;
+  color: darkgreen;
+}
