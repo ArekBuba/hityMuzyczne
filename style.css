@@ -55,7 +55,8 @@ text-decoration: none;
 	text-align: justify;
 }
 
-mark { 
+mark
+ { 
   background-color: yellow;
   color: darkgreen;
 }
